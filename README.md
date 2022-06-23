@@ -13,11 +13,3 @@
    <img align="Left" alt="JesusMX's Github Stats" src="https://github-readme-stats.vercel.app/api?username=m3xicang0d&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark" />
    <img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3xicang0d&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
 </details>
-
-### Hi there 👋
-<a href="https://github.com/m3xicang0d">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=m3xicang0d&show_icons=true&count_private=true&theme=synthwave" />
-</a>
-<a href="https://github.com/m3xicang0d">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3xicang0d&layout=compact&theme=synthwave" />
-</a>

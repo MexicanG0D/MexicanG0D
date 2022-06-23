@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently experienced in Java.
 - 🔭 I’m an Owner at [Mexican Development](https://github.com/RefineDevelopment)
-- ⚔  I'm also a developer on [CarbonSpigot](https://polymart.org/resource/1-8-carbonspigot.1341), [Array](https://github.com/RefineDevelopment/Array) and [PotPvPReprised](hhtps://github.com/DevDrizzy/PotPvPReprised)
 - 📫 You can contact me on Discord by adding JesusMX#2122 or contacting me on [Twitter](https://twitter.com/GEZT27)!
 
 *I mostly do private work so don't expect to see much public commits from me*

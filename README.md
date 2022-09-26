@@ -1,7 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m3xicang0d&label=Profile%20views&color=0e75b6&style=flat" alt="m3xicang0d" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m3xicang0d" alt="m3xicang0d" /></a> </p>
-
 ### Hello! 👋
 
 - 🌱 I’m currently experienced in Java, Kotlin.
